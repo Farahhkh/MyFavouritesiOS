@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Study Hall",
+    "category": "Quiet Study",
+    "id": 101,
+    "isFavorite": true,
+    "description": "A quiet space with individual desks and ample natural light, perfect for focused study.",
+    "imageName": "sample1"
+  },
+  {
+    "name": "Collaboration Room",
+    "category": "Group Work",
+    "id": 102,
+    "isFavorite": false,
+    "description": "A spacious room with tables and chairs, ideal for brainstorming and team projects.",
+    "imageName": "sample2"
+  },
+  {
+    "name": "Lecture Hall",
+    "category": "Large Gatherings",
+    "id": 103,
+    "isFavorite": false,
+    "description": "A large room with tiered seating and audio-visual equipment, suitable for lectures and presentations.",
+    "imageName": "sample3"
+  },
+  {
+    "name": "Computer Lab",
+    "category": "Technology Access",
+    "id": 104,
+    "isFavorite": true,
+    "description": "A room equipped with computers and software, perfect for research and digital work.",
+    "imageName": "sample1"
+  },
+  {
+    "name": "Meeting Room",
+    "category": "Professional Meetings",
+    "id": 105,
+    "isFavorite": false,
+    "description": "A well-equipped room with a conference table and chairs, ideal for meetings and discussions.",
+    "imageName": "sample2"
+  },
+  {
+    "name": "Reading Room",
+    "category": "Relaxed Reading",
+    "id": 106,
+    "isFavorite": true,
+    "description": "A comfortable space with armchairs and soft lighting, perfect for curling up with a good book.",
+    "imageName": "sample3"
+  },
+  {
+    "name": "Art Studio",
+    "category": "Creative Expression",
+    "id": 107,
+    "isFavorite": false,
+    "description": "A bright room with easels, paints, and other art supplies, ideal for unleashing your creativity.",
+    "imageName": "sample2"
+  },
+  {
+    "name": "Music Room",
+    "category": "Musical Exploration",
+    "id": 108,
+    "isFavorite": true,
+    "description": "A soundproofed room with instruments and equipment, perfect for practicing or jamming with friends.",
+    "imageName": "sample3"
+  },
+  {
+    "name": "Auditorium",
+    "category": "Performances and Events",
+    "id": 109,
+    "isFavorite": true,
+    "description": "A large stage and seating area, ideal for hosting presentations, performances, and other events.",
+    "imageName": "sample3"
+  },
+  {
+    "name": "Open Space",
+    "category": "Flexible Use",
+    "id": 110,
+    "isFavorite": false,
+    "description": "A versatile space with movable furniture and whiteboards, perfect for workshops, meetings, or just hanging out.",
+    "imageName": "sample1"
+  }
+]
